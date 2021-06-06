@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kolechetan
+- 👋 Hi, I’m Chetan Kole.
 - 👀 I’m interested in DSA and System Design
 - 🌱 I’m currently learning Dynamic Programming
 - 📫 How to reach me: email: kolechetan@gmail.com, linkedIn: https://www.linkedin.com/in/chetankole/
